@@ -1,7 +1,7 @@
 # AI Engineering · AI Engineering Manager — Learning Repository
 
 <!-- aicg:site-banner -->
-> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum).
+> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum) · [Workforce](https://github.com/ai-workforce-curriculum).
 <!-- /aicg:site-banner -->
 
 Leads teams that build with AI: hiring and leveling for AI roles, planning around non-deterministic work, eval-driven delivery, managing model and vendor risk, and running a team that itself works with coding agents.
