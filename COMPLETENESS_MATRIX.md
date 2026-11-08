@@ -2,18 +2,31 @@
 
 AI Engineering Curriculum · Level 45 · [learning](https://github.com/ai-engineering-curriculum/ai-engineering-manager-learning) · [solutions](https://github.com/ai-engineering-curriculum/ai-engineering-manager-solutions)
 
-_Generated 2026-11-03 by `aicg org completeness`._
+_Generated 2026-11-08 by `aicg org completeness`._
 
-**Overall: 0%**
+**Overall: 42%**
 
 | | Progress | Count |
 |---|---|---|
-| Learning | `░░░░░░░░░░` 0% | 0/0 modules complete |
-| Solutions | `░░░░░░░░░░` 0% | 0/0 exercises solved |
+| Learning | `████████░░` 83% | 10/12 modules complete |
+| Solutions | `░░░░░░░░░░` 0% | 0/49 exercises solved |
 
 ## Modules
 
-No modules yet. The pipeline seeds a curriculum plan for this role and writes the modules on its next fill run.
+| Module | Status | Words | Chapters | Exercises | Quiz | Solutions |
+|---|---|---|---|---|---|---|
+| `mod-101-role-ladder-and-operating-contract` | ✅ Complete | 11,354 | 4 | 3 | — | 0/3 |
+| `mod-102-hiring-leveling-interview-loops-for-ai-engineers` | ✅ Complete | 21,033 | 5 | 5 | — | 0/5 |
+| `mod-103-roadmapping-non-deterministic-work` | ✅ Complete | 19,893 | 5 | 4 | — | 0/4 |
+| `mod-104-eval-driven-sdlc-and-release-gates` | ✅ Complete | 32,149 | 7 | 5 | — | 0/5 |
+| `mod-105-vendor-and-model-portfolio-selection` | ✅ Complete | 30,441 | 7 | 4 | — | 0/4 |
+| `mod-106-safety-guardrails-and-the-release-triad` | ✅ Complete | 34,586 | 8 | 4 | — | 0/4 |
+| `mod-107-ai-incident-response-and-postmortems` | ✅ Complete | 42,399 | 8 | 4 | — | 0/4 |
+| `mod-108-performance-management-and-growth-for-ai-engineers` | ✅ Complete | 34,932 | 7 | 4 | — | 0/4 |
+| `mod-109-team-shape-span-and-ai-operating-cadence` | ✅ Complete | 33,780 | 6 | 4 | — | 0/4 |
+| `mod-110-budget-finops-and-build-vs-buy` | ✅ Complete | 5,684 | 1 | 4 | — | 0/4 |
+| `mod-111-cross-functional-partnership` | 🟡 Skeleton | 513 | 0 | 4 | — | 0/4 |
+| `mod-112-executive-communication-and-stakeholder-reporting` | 🟡 Skeleton | 450 | 0 | 4 | — | 0/4 |
 
 ## How this is calculated
 
